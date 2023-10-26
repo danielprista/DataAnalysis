@@ -6,7 +6,7 @@ Combining my background and experience in Waste Management with my recently acqu
 ### <a href="https://github.com/danielprista/ECOmarine/blob/be4dd346109debcf78e32eb0e237be99aa56271e/Notebook%20-%20Data%20Analysis.ipynb" target="_blank">3-a: Data Analysis using SQL</a>
 - Objective: Create SQL queries that help answer a few questions about the business.
 - Language used: SQL
-- ### <a href="https://app.powerbi.com/view?r=eyJrIjoiNTBiMmJlODUtNWNhZS00NWEzLWI4ZTAtMTg4MDg3Nzk0MTdiIiwidCI6ImMxMjhjMDRlLWNmZTItNDgxMS1hMzFiLWNjNzhjMGMwNzA3MSIsImMiOjl9" target="_blank">3-b: PowerBI Dashboard</a>
+### <a href="https://app.powerbi.com/view?r=eyJrIjoiNTBiMmJlODUtNWNhZS00NWEzLWI4ZTAtMTg4MDg3Nzk0MTdiIiwidCI6ImMxMjhjMDRlLWNmZTItNDgxMS1hMzFiLWNjNzhjMGMwNzA3MSIsImMiOjl9" target="_blank">3-b: PowerBI Dashboard</a>
 - Objective: Create a Dashboard in Power BI with meaningful visualizations about the business.
 - Tool used: Power BI
 
